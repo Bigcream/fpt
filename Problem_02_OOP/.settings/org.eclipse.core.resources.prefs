@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/rentalsystemofruby/db/IGenericDb.java=UTF-8
+encoding//src/rentalsystemofruby/db/impl/AbstractDb.java=UTF-8
+encoding//src/rentalsystemofruby/db/impl/VideoDb.java=UTF-8
+encoding//src/rentalsystemofruby/jdbcconnect/AbstractJdbc.java=UTF-8
+encoding//src/rentalsystemofruby/jdbcconnect/IGenericJdbc.java=UTF-8
